@@ -1,1 +1,1 @@
-# Trabalho de processamento de linguagens naturais
+# Trabalho de processamento de linguagem natural
